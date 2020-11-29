@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "giraffeguessinggame", "giraffeguessinggame\giraffeguessinggame.csproj", "{2BD8986B-F56A-4930-8BD4-0922DC13ED7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD8986B-F56A-4930-8BD4-0922DC13ED7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD8986B-F56A-4930-8BD4-0922DC13ED7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD8986B-F56A-4930-8BD4-0922DC13ED7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD8986B-F56A-4930-8BD4-0922DC13ED7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1CD39E-D9F6-4654-B5ED-7B7D0EE3A466}
+	EndGlobalSection
+EndGlobal
